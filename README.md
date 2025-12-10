@@ -6,6 +6,13 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 
+Step 1:Intialize the matrix Q and u
+
+Step 2:The vector u and e is given by
+
+Step 3:Obtain the Q matrix
+
+Step 4:Construct the upper triangular matrix R
 
 
 
